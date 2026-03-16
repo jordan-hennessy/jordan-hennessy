@@ -10,9 +10,4 @@
 
 ---
 
-### Currently Working on:
-* Networks & Internet Sys
-
----
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordan-hennessy&theme=tokyonight)
