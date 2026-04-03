@@ -10,4 +10,8 @@
 
 ---
 
+Practicing LeetCode
+
+---
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jordan-hennessy&theme=tokyonight)
