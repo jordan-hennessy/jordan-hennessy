@@ -10,7 +10,7 @@
 
 ---
 
-Practicing LeetCode
+Practicing LeetCode / NeetCode
 
 ---
 
